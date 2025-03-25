@@ -1,0 +1,73 @@
+Extracting subtitles from videos/Tournament of Champions - S04E01 - The Battle Begins HDTV-1080p.mkv...
+Detected ASS/SSA subtitle format:   Stream #0:2(eng): Subtitle: ass (ssa) (default)
+Detected subtitle format: ass
+Attempt 1: Running command: ffmpeg -loglevel info -i videos/Tournament of Champions - S04E01 - The Battle Begins HDTV-1080p.mkv -y -map 0:s:0 -f ass /tmp/tmpyxtfn169/subtitles.ass
+  Successfully extracted subtitles as ass
+Extracted 1987 lines of subtitles
+Using model: claude-3-7-sonnet-20250219
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 00:16:01 ======
+I already don't love this.
+The randomizer will determine the various components of your dish.
+Now, we have the proteins,
+produce, equipment, and style.
+There's a dark one.
+I know.
+Do you see this dark, blackout one?
+Oh, wow.
+Right.
+Oh, okay.
+Uh, normally that's time.
+The fifth category's normally time,
+but things are gonna get a little wild...
+Oh, boy.
+...this season of TOC IV.
+
+====== 00:52:42 ======
+[both sing] Randomizer!
+[both sing] Randomizer!
+I have never heard "randomizer" sung,
+but the fact that you put it to a medley...
+Let's take it to the...
+[sings] Randomizer!
+Right this way, chefs. Here we go!
+Let's go!
+
+====== 00:06:15 ======
+The question is, what combinations of craziness
+will the randomizer feed you?
+Now, if you thought that it was unpredictable before,
+this season, it's going to be...
+...wild.
+Wild.
+
+====== 00:49:25 ======
+The revenge came sweet this time, literally, on the randomizer
+and I'm excited.
+Are you ready for another culinary battle?
+[audience cheering]
+It's fantastic.
+We have two standout Top Chef all-stars
+who competed in the same season
+and they're about to hash it out.
+
+====== 01:09:22 ======
+The randomizer has five categories,
+protein, produce, equipment, style and...
+Woah, what is that?
+What do we got here?
+[Guy] That is called Wild Card.
+What is this?
+[Guy] 30 minutes to cook.
+Without further ado, ladies and gentlemen
+the randomizer for the final round tonight.
+Come on, baby.
+[Guy] Number one versus number eight.
+Come on, baby.
+[Guy] Number one versus number eight.
+Here we go! Protein!
+
+

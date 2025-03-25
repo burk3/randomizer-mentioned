@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S05E02 - First Round Battles Heat Up WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:10:09 ======
+I feel like we have the hardest Randomizer that's landed so far. There's not a lot of foods that are folded. Obviously, pasta, dumplings, wontons. So I'm thinking I'm going to make a turkey and mortadella wonton.
+
+====== 0:31:05 ======
+I kind of look at the Randomizer the way you look at your enemy. I'm gonna become her best friend. Do I agree with her decisions, do I agree with what she does? Hell no, but we are gonna be besties and I'm going to win.
+
+====== 1:05:52 ======
+Honestly, I hate this Randomizer. Pork loin can be on the tougher side, it doesn't have a lot of fat. Steel-cut oats are a bit of a whammy. They don't really add anything.
+
+====== 1:06:17 ======
+The Randomizer is the devil. But pork with tart, automatically, I was thinking fried pork, 'cause I know steel-cut oats don't have a lot of flavor. I can use it as a breading. And cauliflower is a very versatile vegetable.
+
+====== 1:23:38 ======
+This is the worst Randomizer I have ever gotten.
+
+

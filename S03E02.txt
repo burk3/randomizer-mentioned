@@ -1,0 +1,27 @@
+Extracting subtitles from videos/Tournament of Champions - S03E02 - The Randomizer's Revenge SDTV.mkv...
+Detected ASS/SSA subtitle format:   Stream #0:2(eng): Subtitle: ass (ssa) (default)
+Detected subtitle format: ass
+Attempt 1: Running command: ffmpeg -loglevel info -i videos/Tournament of Champions - S03E02 - The Randomizer's Revenge SDTV.mkv -y -map 0:s:0 -f ass /tmp/tmpu8405o1v/subtitles.ass
+  Successfully extracted subtitles as ass
+Extracted 1988 lines of subtitles
+Using model: claude-3-7-sonnet-20250219
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 00:25:37 ======
+Um, Tiffani tell us, who is the randomizer? Why does he terrorize you at night? Exactly. The randomizer, right this way, chefs. All right. [audience cheering and applauding] This thing again. Here's the great thing about this. The randomizer has gotten easier. Not really at all. That's a lie. [audience laughing] Let's get after the protein. [audience cheering and applauding] Where are you going? Don't hide. Where'd she go? She's right there. [Guy] You can't hide from the randomizer. Now look what's coming. Look what's coming. Ground bison. No! Damn it!
+
+====== 01:06:07 ======
+Number eight seed, number one seed, let's take it to the randomizer. [audience cheering and applauding] Let's get it going. Here we go, ladies. [audience cheering and applauding] My head is spinning. [Guy] What do we get in protein? Country-style pork ribs. Corn. Oh. No. [Guy] Toaster oven. Come on. Whipped and 30 minutes. For real? When... when was the last time anybody used a toaster oven? Uh, Shrinky dinks. [audience laughing] We're gonna go. In three, two, one. Go! [audience cheering and applauding] [Brooke] The randomizer gave us country-style pork ribs, corn, toaster oven, whipped and 30 minutes. It's virtually impossible to get a pork rib tender in 30 minutes. And toaster oven, I mean, I don't even own a toaster oven. So, this is a brutal, brutal randomizer.
+
+====== 00:53:07 ======
+But I'm at the mercy of the randomizer, so I'm grilling the steaks. Chefs, ten minutes. Ten left in the competition. [audience cheering] Making mayonnaise, chef? Hollandaise. I want to make a hollandaise, because who doesn't love steak and butter. I want to put some fennel juice in there, or is that crazy? I'm going to try that. Nailed it. Oh, no.
+
+====== 00:46:16 ======
+Gentlemen, let's take it to the randomizer. [audience cheering and applauding] All right, the randomizer will determine protein, produce, equipment, style and time. Let's get busy. Here we go. Oh... This is terrible. It's just terrible. Not that. Or that. [Aaron] Told you. [Guy] Sirloin steak. Whoa! [Guy] Fennel, snow cone maker, grilled, 35 minutes. Snow cone maker. Who's the giver?
+
+====== 00:47:53 ======
+The randomizer is never goin to give you exactly anythin you want, but fennel, I love you. So, I want to really make su that my dish has fennel throughout everything. Chef Brian Malarkey, of course, a native of San Diego and fennel, uh, grows wild in San Diego. You can actually find it growing wild near oceans, any sort of sandy environment. Do you ever find wild fennel out there in San Diego? Uh, all over the place, yes. Okay, we're grilling that. Who rocks the party? I rock the party!
+
+

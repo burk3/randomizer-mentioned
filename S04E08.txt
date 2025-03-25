@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S04E08 - And the Belt Goes To HDTV-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:20:14 ======
+Guy called it a nice randomizer. It... It wasn't.
+
+====== 1:00:29 ======
+This is the hardest randomizer that I have received in any of the TOCs.
+
+====== 1:11:35 ======
+That was a really hard randomizer.
+
+====== 0:56:30 ======
+Then we have audience choice and never-seen-before on the randomizer, stay.
+
+====== 1:10:09 ======
+the randomizer very clearly on my plate.
+
+

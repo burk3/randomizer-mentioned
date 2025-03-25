@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S02E04 - Round One Continues WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:46:14 ======
+That is the worst damn Randomizer of the tournament! I hate all of you.
+
+====== 0:49:41 ======
+The Randomizer is evil. So it's mussels, cabbage, air fryer, [groans] and grilled. I want to get this cabbage grilled. So that I can braise it. So it's nice and tender. And I think grilled cabbage will be great, and a coconut curry broth. I also just love that I can check those few things off of the Randomizer list.
+
+====== 0:30:11 ======
+Anyone can win, anytime, because the Randomizer doesn't care.
+
+====== 0:08:01 ======
+I've seen the Randomizer on TV. Now I'm face-to-face with it. We got halibut, eggplant, the deli slicer, blackened and 35 minutes to do it all. Guy pulled me out of competition retirement, but as soon as the clock started, I picked up right where I left off.
+
+====== 0:11:20 ======
+If the Randomizer says eggplant, I wanna give them eggplant. But to blacken every component in the dish, I think it's a bit of a risk. But this is a competition, so I'm not gonna, like, phone something in and then wonder why I didn't win.
+
+

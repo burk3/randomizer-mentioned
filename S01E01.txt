@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S01E01 - The Tournament Begins WEBDL-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:11:03 ======
+ANTONIA: The randomizer is the bane of my existence. I don't understand why it's so big. I don't understand why there's so many options on it.
+
+====== 0:01:09 ======
+till they face the randomizer. This is so messed up right now. On the level of terrible, that's a 9.
+
+====== 0:23:19 ======
+how well they tackled the randomizer -- and 20 points for presentation. And a perfect score's okay, right? You know what, Chef? If anybody gets a perfect score from you, I think that they could just probably walk. Alright? Yes! I just peed.
+
+====== 0:47:52 ======
+This is time that we take a visit over to the randomizer. Follow me right this way. Can't wait. ♪ We're gonna picket the protein, the produce, the equipment, the style, and the time. [ Sighs ] Alright.
+
+====== 0:30:28 ======
+Gentlemen, it is my pleasure to welcome you to the randomizer. We're gonna pick the protein, the produce, the equipment, the style and the time. Here we go. [ Cheers and applause ] ‐Is that how it works? ‐Wow.
+
+

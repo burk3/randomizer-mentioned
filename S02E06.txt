@@ -1,0 +1,42 @@
+Extracting subtitles from videos/Tournament of Champions - S02E06 - End of the Quarterfinals WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:06:44 ======
+[screams in frustration]
+Oh, my goodness.
+Whole chicken, curry leaves,
+coconut opener, Greek, 30 minutes.
+- [audience gasps] - What was that? 30 minutes?
+[Guy] Thirty minutes.
+
+====== 0:33:59 ======
+<i>The Randomizer didn't get me this time.</i>
+
+====== 0:44:33 ======
+[Jet] I hate this machine, Guy.
+Whatever you do, do not speak even. Don't even whisper
+- a word, 'cause it can... - Okay.
+- ...hear you. - Say nothing, right?
+- [Guy] Right, here we go! - [Antonia] All right! Everyone take a deep breath!
+[audience cheering]
+[Jet] Come on, come on. Come on, come on!
+
+====== 0:45:18 ======
+[Jet]<i> I'm gonna do</i> <i>the best I can</i>
+given the Randomizer ingredients and the theme.
+<i>Let's be honest, you're never gonna have Dungeness crab</i>
+<i>and kumquats in a spaetzle maker</i>
+into a North African dish.
+
+====== 0:16:42 ======
+But I don't taste the Randomizer in the dish.
+What?
+I don't taste the ouzo, the coconut.
+Coconut opener, so it's the mallet and the...
+Right. Should it be used
+to open something rather than pound something?
+[Nancy]<i> Not sure.</i>
+
+

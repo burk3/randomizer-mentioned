@@ -1,0 +1,63 @@
+Extracting subtitles from videos/Tournament of Champions - S04E07 - The Great 8 Enter, the Final 4 Exit HDTV-1080p.mkv...
+Detected ASS/SSA subtitle format:   Stream #0:2(eng): Subtitle: ass (ssa) (default)
+Detected subtitle format: ass
+Attempt 1: Running command: ffmpeg -loglevel info -i videos/Tournament of Champions - S04E07 - The Great 8 Enter, the Final 4 Exit HDTV-1080p.mkv -y -map 0:s:0 -f ass /tmp/tmpq117p858/subtitles.ass
+  Successfully extracted subtitles as ass
+Extracted 1928 lines of subtitles
+Using model: claude-3-7-sonnet-20250219
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 00:02:29 ======
+So the randomizer is gonna go to a next level as well.
+So the randomizer is gonna go to a next level as well.
+Oh, no. [chuckles]
+[Jose] Ay yai yai.
+How can it get worse?
+Since this is the most culinary diverse group of chefs we've ever had
+it's only fitting that the randomizer is gonna go...
+-...international. -Yes!
+All right. Okay, okay.
+[Guy] We're talking more adventurous proteins, more exotic produce.
+Equipment from around the world.
+Oh, boy. Oh, boy.
+[Guy] And more complex global flavors.
+[Guy] And more complex global flavors.
+[Jet] Ay yai yai.
+The great equalizer. [chuckles]
+
+====== 00:38:08 ======
+Uh, that was a really hard randomizer.
+That was a really tough randomizer.
+Dang!
+
+====== 00:14:31 ======
+[Maneet] Freaking out. The randomizer was fantastic.
+[Maneet] Freaking out. The randomizer was fantastic.
+But we freaking out about the fact that one of us
+has to go up against one of them.
+Yes.
+
+====== 00:36:18 ======
+You have to go after the randomizer.
+You have to go after the randomizer.
+You've got to embrace it, not hide from it.
+Two belts would look absolutely fantastic on me.
+Then I can rub it in all the newbie's faces.
+See? This is how it's done.
+
+====== 01:20:47 ======
+and it's gonna come down to the Randomizer usage.
+Well, there you have it, ladies and gentlemen,
+the final battle of the evening,
+time to bring the chefs back in.
+Let's do it, let's face the music.
+Yes.
+Ladies and gentlemen, I have the scores.
+Let's call in the chefs.
+Let's call in the chefs.
+Chef Adam Sobel!
+Chef Jet Tila!
+
+

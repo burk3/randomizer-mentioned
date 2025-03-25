@@ -1,0 +1,69 @@
+Extracting subtitles from videos/Tournament of Champions - S04E05 - Surf & Turf Battles HDTV-1080p.mkv...
+Detected ASS/SSA subtitle format:   Stream #0:2(eng): Subtitle: ass (ssa) (default)
+Detected subtitle format: ass
+Attempt 1: Running command: ffmpeg -loglevel info -i videos/Tournament of Champions - S04E05 - Surf & Turf Battles HDTV-1080p.mkv -y -map 0:s:0 -f ass /tmp/tmpaojtgijt/subtitles.ass
+  Successfully extracted subtitles as ass
+Extracted 2074 lines of subtitles
+Using model: claude-3-7-sonnet-20250219
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 00:02:36 ======
+...the Randomizer will be a little bit more challenging.
+Oh, my goodness!
+Not only will the Wild Card option
+continue to get, um, wilder...
+[exhales sharply]
+[Guy] ...for the first time in TOC history,
+you will be preparing a dish that has not just one...
+...but two different proteins.
+No!
+Second round is called Surf and Turf Wars.
+
+====== 00:29:15 ======
+What a randomizer.
+That is using a deli slicer too.
+[Eric] Chef, you have, uh, that scotch bonnet?
+[Jose] Yes, I do, actually.
+-[Eric] Uh, can we share? -[Jose] Share? Yeah, sure.
+For my Game Day Feast, I'm going global game day.
+I'm thinking of the World Cup.
+I'm thinking game day doesn't only exist here in the U.S.
+So I needed to go outside the borders.
+
+====== 00:36:42 ======
+It was a really, really difficult randomizer.
+I'm just glad that I got everything on the, uh, plate.
+And I'm gonna leave it in the judges hands.
+[crowd] 6, 5, 4...
+[Guy] 3, 2, 1.
+Chef's, that's it. Stop working!
+[crowd cheering]
+Oh, my god.
+I've never been so stressed.
+Thirty-five minutes went by like that.
+
+====== 00:40:59 ======
+That's not a randomizer.
+But for a Game Day Feast,
+I would've thought a little more oomph, or a little more heft here.
+I shoulda did more.
+Also, on the randomizer, the slicer was a big part of this.
+I would slice the char and the lamb.
+[imitates slicing sounds]
+The lamb... I did get a lot of fat,
+but presentation... I think this little cup is really nice.
+
+====== 01:12:23 ======
+I'm battling the randomizer.
+The idea is that this poached egg
+is gonna go on top of my fried veal cutlet
+and then you know, you cut into it.
+And even if it, like, happens to cook a little bit more,
+I love hardboiled egg and mayonnaise sauce,
+it's fine.
+Pickling, good.
+Ten minutes, ten minutes to be plated.
+
+

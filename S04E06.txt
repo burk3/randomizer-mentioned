@@ -1,0 +1,16 @@
+====== NOTE ========
+all the subs I could find for this episode were for a completely different show, hence no mentions of randomizer.
+====== NOTE ========
+
+Extracting subtitles from videos/Tournament of Champions - S04E06 - The Super 16 Survivors HDTV-1080p.mkv...
+Detected ASS/SSA subtitle format:   Stream #0:2(eng): Subtitle: ass (ssa) (default)
+Detected subtitle format: ass
+Attempt 1: Running command: ffmpeg -loglevel info -i videos/Tournament of Champions - S04E06 - The Super 16 Survivors HDTV-1080p.mkv -y -map 0:s:0 -f ass /tmp/tmpkljtc1si/subtitles.ass
+  Successfully extracted subtitles as ass
+Extracted 722 lines of subtitles
+Using model: claude-3-7-sonnet-20250219
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+No mentions of 'randomizer' found in the video.
+

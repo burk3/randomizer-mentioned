@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S01E04 - Down to the Top Four WEBDL-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:05:19 ======
+The randomizer keeps giving me the things that I don't want. The tortilla press. The nopales. Nopales? What in the world cactus is this? Never had it before. I've never seen it before. But I call myself a super chef for a reason, so I'm gonna figure this out, man.
+
+====== 0:11:32 ======
+one of the most important parts, actual piece of the randomizer. No way. Yeah. And that was my press. So, if I forgot the fry bread, that means I didn't use the tortilla press, which means they're gonna ding me in execution. I'm just hoping that my dish is perfect in every other area.
+
+====== 0:34:48 ======
+randomizers thus far. Oh, this is gonna be good. Right over your head, chef. Sorry. Mm-hmm. [ sighs ] right? Yeah. This sucks. Jet: Bitter melon is an east asian and south asian ingredient, eaten usually for medicinal purposes. Brooke: There's no situation on the planet where you would find all of these ingredients
+
+====== 0:43:23 ======
+The randomizer...Yeah. No, you cannot sink it to the bottom of the ocean. We need it for next week. [ laughter ] the judges have scored the competition, and here's how it goes.
+
+====== 0:44:19 ======
+The randomizer basically is the equalizer. I'm basically going out and going to study middle eastern food -- like right now. This just in. [ brooke laughs ]
+
+

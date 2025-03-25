@@ -1,0 +1,26 @@
+Extracting subtitles from videos/Tournament of Champions - S02E03 - The Bracket Begins WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:13:29 ======
+[Antonia] If I had to use words to describe the Randomizer, "The Randomizer is the devil."
+
+====== 0:31:40 ======
+- [Marc] Oh, the Randomizer. - [Darnell] Yes.
+Can you believe we're here again?
+How are you excited about this?
+Oh, my goodness.
+Time to play with the Randomizer.
+
+====== 0:32:35 ======
+You know some people like to prepare for competitions but here at Tournament of Champions with that Randomizer... [scoffs] Anything can come at you. There's no way to prepare for this game.
+[Darnell] I was on this show last year so I know you cannot run from the Randomizer. Like, it needs to be the most dominant part of your dish and then it needs to taste good.
+
+====== 0:44:13 ======
+Then that Randomizer out there will just kill everything.
+
+====== 1:02:55 ======
+That is the worst Randomizer of the tournament!
+
+

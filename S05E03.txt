@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S05E03 - The Stakes Have Never Been Higher WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:01:36 ======
+This is the worst randomizer I have ever gotten.
+
+====== 1:06:39 ======
+This is the worst Randomizer I have ever gotten.
+
+====== 1:16:51 ======
+Every time I do a Randomizer, I'm like it's bad. This probably was the worst.
+
+====== 0:27:14 ======
+Randomizer is reading your soul right now.
+
+====== 0:06:43 ======
+You know what to do, we're just gonna say 30 minutes to cook, no questions asked here in the first round. I'll take that. Someone's gonna go to the sweet 16.
+
+

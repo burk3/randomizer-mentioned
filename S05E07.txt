@@ -1,0 +1,81 @@
+Extracting subtitles from videos/Tournament of Champions - S05E07 - The Great 8 Faceoff WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:26:41 ======
+[Guy] The only thing standingin your way, the Randomizer.
+Right this way, chefs.
+[cheers and applause]
+[Britt] Let's do this.
+[Guy] Okay. Any questions?
+Oh, God. Fantastic.
+Let's spin. Here we go.
+Come on.
+[cheers and applause]
+[screams]
+God.
+
+====== 1:04:54 ======
+Nancy Silverton called her first round dish
+the best juice of the Randomizer
+out of everything she has eaten so far.
+As the TOC II champ,
+she has won 14 battles
+in this arena, more than any other chef
+in TOC history.
+Ladies and gentlemen, make noise
+for the Dancing Spice Queen,
+one and only, Chef Maneet Chauhan.
+[cheers and applause]
+[Guy] Now, that you're a TOC champ,
+do you feel a little bit more free and easy?
+I haven't slept all night. Okay.
+And when I sleep, I get nightmares
+of what Randa is going to give us.
+I have seen snakes coming out of it.
+Everything that I'm afraid of
+in life comes out of that Randa.
+
+====== 0:29:23 ======
+It was a tough Randomizer.
+I'm in the bad headspace of ten different dishes
+bouncing around in my head.
+Do I make a fried guinea hen,
+a guinea hen spatchcock, a guinea hen under a brick?
+I land on fried guinea hen,
+which I think will work really well.
+Because it is so dry, frying is the answer.
+What are you gonna put into these aebleskiver?
+[Amanda] Mac and cheese. [Simon] Ooh.
+
+====== 0:02:01 ======
+[Guy] The farther you go in the competition,
+the harder the Randomizer becomes.
+For the quarterfinals,
+the Randomizer is going to go global
+with international proteins, and produce,
+and equipment.
+You have 40 minutes to cook.
+And remember, the chef with the highest scoring dish
+at the end of this episode will get $5,000
+donated to a restaurant of their choice
+in their name,
+thanks to our friends at State Farm.
+Awesome. [Tobias] Yes.
+And now the lineup for tonight.
+
+====== 0:06:26 ======
+Tonight, the Randomizer's got some goodies.
+[Jet] Oh.
+[Guy] We have four classic categories,
+protein, produce, equipment, and style.
+And this year includes one more fun,
+little wacky nobody likes in area,
+called the Wild Card.
+I'm not mad at anything, so.
+All right. Let's get after this.
+Going for the protein.
+[cheers and applause]
+
+

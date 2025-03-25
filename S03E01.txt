@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S03E01 - The Tournament Kicks Off WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:15:02 ======
+[Guy] The Randomizer is going to determine the mandatory protein, produce, piece of equipment, style, and how much time you will have to complete your dish.
+
+====== 0:52:40 ======
+And then the Randomizer. [Brooke] This is really an arena for someone who needs to be able to think on their feet. Right. [Eric] So I have to make a dish with ground chicken cucumber, a meat mallet, that has to be seared, and we only have 25 minutes That's probably like the least forgiving thing on the entire Randomizer. By the time you actually start cooking, you're gonna have to take it off the stove like pretty soon. [laughs] What's your thoughts right from the beginning, Chef? Um, quick prayer. [crowd laughs]
+
+====== 0:14:47 ======
+[Guy] All right, Chefs. Let's take it to the Randomizer. [crowd cheering] PFL, Volt, the Randomizer. - Love it. - [Guy] The greatest way that we can make sure that you are tortured to the next level. - [crowd laughing] - [Guy] The Randomizer is going to determine the mandatory protein, produce, piece of equipment, style, and how much time you will have to complete your dish.
+
+====== 1:09:36 ======
+[Maneet] Randomizer, there is tilapia, there is poblano, there is the garlic press, roasted, and 30 minutes. My foundation is Indian food I think I am going to make a version of fish and chips with traditional Indian spices. The judges don't know who I am. I want the judges to see who I am through the dish that I present.
+
+====== 0:25:40 ======
+That takes nerves of steel. I liked it. It was a little petite little piece of meat. It seems like right up my alley. [Alex] The hazelnuts shaved are a brilliant use of the mandoline. But the kielbasa, if it's gonna be like this, I needed it to be really browned, like fried, with, like, bread. I want brown toast! Yeah, I think we all want bread. Bread? [Alex] So, there was a Randomizer deficiency in terms of the toast note. I wanted maybe something a little bit more, balanced.
+
+

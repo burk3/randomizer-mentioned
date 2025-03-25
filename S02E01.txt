@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S02E01 - West Wild Card Play-In WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:39:34 ======
+When I first saw the randomizer, I immediately thought of, like, a meat grinder. It's just like putting a bunch of stuff down this thing. And it's spitting out whatever. I mean, it's crazy. If you think that there's feared pieces of equipment in the culinary world, I think it's this thing. I didn't even mean for it to become this devious and diabolical. But it sure is.
+
+====== 0:40:55 ======
+I wasn't stoked to meet the randomizer in person. And now, I definitely know why. Also, Chris is, like, the master of, like, the street food and the polar opposite of what I do. Not my favorite challenge I've ever come across, but definitely not one that's going to slow me down.
+
+====== 0:50:26 ======
+I know shallots were on the randomizer. It's on there twice. Like, you should cut away to Phillip's room right now and see him under the table crying.
+
+====== 0:58:00 ======
+But this randomizer just throws everything into craziness. Just... you know, just go in there and pray.
+
+====== 0:14:16 ======
+The randomizer is the pivotal machine in this competition. There's no way to prepare for what's to come. Ooh, yeah. Lot of mercy. GUY FIERI: The randomizer is going to determine your protein, your produce, your equipment, your style. And since we're in wild card play, every round will be 30 minutes. No two games will ever be alike. NYESHA ARRINGTON: Right. GUY FIERI: That's the beauty of this. I love it. Spin that wheels. NYESHA ARRINGTON: Make it delicious.
+
+

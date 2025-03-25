@@ -1,0 +1,29 @@
+Extracting subtitles from videos/Tournament of Champions - S05E05 - The Super 16 Step Up WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+Could not parse LLM response as JSON. Raw response:
+Based on my analysis, here are the five funniest clusters where contestants express frustration over the randomizer or the host expresses concern about its effect:
+
+```json
+[
+  {
+    "timestamp": "0:34:49",
+    "text": "[Kevin] I dropped the acorn squash on the floor.\n>> Obviously it's one of the Randomizers. <<\nI'm not going to have the time to put all the love,\nuh, that I put into on the first batch.\nBut I'm going to flash-fry it in the fryer,\nthen throw it on the grill\nto make sure I get this done on time.\nSuper bummed.\nThat was gonna be one of my components\nfor my bibimbap, but it is what it is.\nYou can't stop now we gotta push all the way through.\nI'm also making an acorn squash gochujang."
+  },
+  {
+    "timestamp": "0:08:50",
+    "text": "-Let's go protein. -Protein?\n[Michael V] She doesn't like the cranberries.\nI love porterhouse.\nThat's why we're spinning it.\n-You don't like porterhouse? -I have a steakhouse.\nLike, I'm tired of cooking steak.\nI wanna cook something different.\nSpin that wheel.\nHere you go.\nScallops.\n>> I gotta say that's a good Randomizer. <<\nProtein is now scallops. I'm like,\n\"What's better than a porterhouse?\nA scallop. Thanks, Michael.\"\nChefs, you are in the Super 16.\nThis is go big or go home\nand it's time to go shopping. Good luck."
+  },
+  {
+    "timestamp": "0:40:41",
+    "text": "perfectly-cooked acorn squash,\nthe tiger, tiger sauce as well.\nThat [sniffs] little hint of heat\nthat kind of keeps coming back every once in a while.\nYou think it's gone and then it hits you again.\nJust kind of in a ticklish heat, so to speak.\nAnd it's just such a pleasant, happy plate of food.\nI love the dish. Let me tell you,\nthe trout was cooked perfectly.\nLove the sauce. Very well balanced.\n>> Now we're going to the Randomizer. <<\nIf I'm thinking to honoring and channeling Sunday supper,\nI think that this is a little bit more elevated.\nThis is Sunday supper.\nLike everything's rustic and like chopped, and skin on,\nand with all the seasoning that I have in the house.\nTrout, 10.\nGrilling, top points.\n-But this feels like a restaurant dish. -[Lorena] Yes.\nIt's almost too much.\nI love this cabbage, but not on this dish."
+  },
+  {
+    "timestamp": "0:58:33",
+    "text": "-a classic, right? -[Marcus] Yeah.\nAnd I think that it was achieved here...\n-[Marcus] Yes. -in this dish.\n-[Scott] Right. -[Lorena] Everything is well-prepared,\nwell-seasoned, but I think that is...\nWhat you're saying, that it just needed\na little bit more time to finish it up.\n[Dale] Damn. They're right.\nJudges. Thank you very much. Your scorecards are there.\nWe have 50 points available in taste,\n>> 40 points in the use of the Randomizer, <<\nand 10 on the plating.\n[Dale] But they said negative comments and...\nNice comments aren't gonna win this.\nNice isn't good enough. It just isn't.\nI mean, that went okay.\nIt went okay for him.\nAnd here to present the second dish\nis Sir Simon Majumdar."
+  },
+  {
+    "timestamp": "1:09:08",
+    "text": "Everything delicious and decadent.\n>> [Eric] Randomizer is definitely more difficult in round two. <<\nThere is
+
+Results:
+No mentions of 'randomizer' found in the video.

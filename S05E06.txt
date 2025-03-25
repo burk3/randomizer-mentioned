@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S05E06 - Wild Card High Jinks WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:07:27 ======
+The randomizer said equipment re-spin. I don't like this. [Guy] Ladies. It's worse. What... What's wrong, Chef? I'm ready to stroke out. [Amanda chuckles]
+
+====== 0:08:07 ======
+They don't like the randomizer. Duck breast. Everybody loves duck breast. Banana peppers, mild in flavor and stuff really well.
+
+====== 0:28:13 ======
+It's a wicked randomizer. It's everywhere.
+
+====== 0:39:28 ======
+Persimmon is not a fruit you want to get thrown in your randomizer. It's either too sour or too sweet.
+
+====== 0:48:31 ======
+Diner favorites just aren't speaking to me, especially with the rest of the randomizer. I'm hoping for something a little more sexy.
+
+

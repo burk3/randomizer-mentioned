@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S02E05 - Final Eight Revealed WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:47:00 ======
+I'm telling you, the only one that needs to apologize, is the person that made the Randomizer.
+
+====== 0:07:35 ======
+And then the Randomizer tells me I got to braise.
+
+====== 0:27:33 ======
+This randomizer is actually an equalizer.
+
+====== 0:50:36 ======
+[Michael] I think the most creative thing about this dish is the Randomizer's direction
+
+====== 0:12:06 ======
+If the Randomizer tells me to use something,
+
+

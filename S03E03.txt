@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S03E03 - More Round 1 Rivalries WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:49:32 ======
+You wanna talk about what my nightmare's about the randomizer were? This is it.
+
+====== 0:55:33 ======
+The randomizer, as awful as it is, it really levels the playing field.
+
+====== 1:07:38 ======
+It's time to take it to the randomizer. Right this way.
+
+====== 1:07:52 ======
+one item on the randomizer that we will remove.
+
+====== 1:09:05 ======
+So, the randomizer tells me skirt steak, then you want me to roll it.
+
+

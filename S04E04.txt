@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S04E04 - Final Face-Offs of the First Round WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 00:16:42 ======
+[Tobias] Randomizer gives all of us a headache. Only one more left. I'm making mash to go with my curry. And of course, I make jalapeno mash at my restaurant, so why not add jalapenos to the mash here and make jalapeno mash.
+
+====== 00:07:08 ======
+It's a competition between them and the randomizer. Chefs, right this way. -[Leah] Okay. -[Tobias] Let's go. [audience cheering and applauding] The randomizer is so conveniently placed here to give you must-have elements of your dish.
+
+====== 01:21:55 ======
+[Antonia] That's what it comes down to. I don't play with the randomizer enough, and it's like what gets me every single time.
+
+====== 00:30:50 ======
+You need to be creative with this randomizer. So this is gonna pose a challenge. We're going flavor, flavor, flavor, flavor.
+
+====== 00:47:57 ======
+To the randomizer. Let's go. [audience cheering and applauding] Chefs, as you know, the randomizer will select all your favorite components of protein, produce, equipment and style. Then, of course, you have this little wild card thing. -Ah. -It sounds fun, though, huh? This is not fun.
+
+

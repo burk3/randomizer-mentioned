@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S05E04 - The Good, the Bad and the Randomizer WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:05:27 ======
+I'm going against the Randomizer. That's a very good attitude. That's a very good attitude. And Michael is just gonna happen to be here cooking next to me, right? -Good luck, Chef. -Thank you so much. -Good luck.
+
+====== 0:29:13 ======
+[Karen] On the Randomizer is tilapia, sweet potato, waffle iron, cheesy, and canned green beans. This might be my least favorite Randomizer I've ever gotten. Since I get the waffle iron, I'm immediately thinking of chicken and waffles. But fish and waffles. So this is where my mind is going.
+
+====== 0:39:27 ======
+Me too, Nancy, but that wasn't on my Randomizer. So I would say the green beans should be masked more. Marcus is still eating it. I love the flavor of this. But for me, that goat cheese kind of detracts from the flavor profiles here.
+
+====== 0:42:38 ======
+That Randomizer, I said this, man. You know, have a plan and then let the Randomizer laugh at you. Love the energy. Great job, chef.
+
+====== 1:16:53 ======
+I think I literally beat the Randomizer into submission, and it's a Randomizer game. So I'm hoping all that works out in my favor.
+
+

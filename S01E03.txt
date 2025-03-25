@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S01E03 - Final Eight Revealed WEBDL-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:19:08 ======
+Whoever thought of the randomizer -- evil genius.
+
+====== 0:30:41 ======
+I think that it's just time to get to the randomizer, and figure out what this big shindig's all about.
+
+====== 0:30:46 ======
+The randomizer. You chefs ready? Ready. Follow me over to the randomizer.
+
+====== 0:08:41 ======
+The chefs have probably one of the most daunting randomizers we've ever seen -- chicken breasts, radish; they gotta use a pastry bag, they gotta make a spicy dish, and they've only got 30 minutes to do it and I gotta tell ya, man, are they busy.
+
+====== 0:19:04 ======
+Let's focus on the thing that makes everybody's life worse -- the randomizer. Follow me.
+
+

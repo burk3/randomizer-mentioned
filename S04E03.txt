@@ -1,0 +1,30 @@
+Extracting subtitles from videos/Tournament of Champions - S04E03 - Win or Go Home HDTV-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:07:06 ======
+This is your first time hanging out with the randomizer?
+Not my first nightmare about it, though.
+[laughter]
+-Let's take it to the randomizer. -Let's go.
+
+====== 1:02:05 ======
+The randomizer got me.
+It got me.
+[Guy] You just won, buddy.
+[Adam] Oh, baby.
+That was intense.
+That was intense.
+
+====== 0:18:59 ======
+No concerns whatsoever. My dish looks better.
+It tastes better. And I used the randomizer more.
+
+====== 0:19:11 ======
+Plating and randomizer... those should both be perfect scores.
+
+====== 0:11:08 ======
+<i>is that the randomizer</i> <i>deserves respect.</i>
+
+

@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S02E02 - East Wild Card Play-In WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:08:23 ======
+Your Randomizer, your fun little Randomizer? Let's give them five different options. But I do know Italian food. I have an Italian restaurant. So what I think I want to do... Some sort of pork Milanese.
+
+====== 0:29:16 ======
+Somebody's been talking nice to the Randomizer, because these are easy. Oh, come on! Pss! The Butcher versus The Falkster. Just think about this... Your time already started.
+
+====== 0:46:47 ======
+ELIZABETH FALKNER: The Randomizer is not your friend. There's always some kind of thing that makes it more challenging. But the first thing that occurs to me is that I am going to do like, a sliced tri-tip, patty melt kind of sandwich. But this is "Tournament of Champions," and you have to really bring a lot of flavor to the party. Because you're just not going to stand out.
+
+====== 0:26:00 ======
+And she's back for some Randomizer redemption. ELIZABETH FALKNER: I love cooking competition. It's my favorite sport. I competed in "Tournament of Champions" last year. And to be honest, I played some rookie moves. The pork is tender. This hot sauce, I would have loved it more incorporated. ELIZABETH FALKNER: And I really want to win this. I'm back for more blood.
+
+====== 0:07:15 ======
+Let's go to the Randomizer. Ah! To quote my buddy Al Pacino, (TONY MONTANA VOICE) Say hello to my little friend! TIFFANI FAISON: Ugh! GUY FIERI: Yeah. As you know, it's going to pick for you the protein, the produce, the equipment, the style of the dish. And since we're in wild card play, every round will be 30 minutes.
+
+

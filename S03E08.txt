@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S03E08 - A Champion Is Crowned WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:27:07 ======
+You know, randomizer finally got me.
+
+====== 0:59:23 ======
+Natto is the devil of this randomizer, here in the finale.
+
+====== 0:18:48 ======
+I'm still worried that we're not gonna get that quenelle structure, which is absolutely part of the randomizer.
+
+====== 0:55:32 ======
+the difficulty level of the randomizer has been... let's say, turned up a bit.
+
+====== 0:13:26 ======
+I like everything on this randomizer except for quenelle.
+
+

@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S03E06 - The Super 16 Sudden Death WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:17:25 ======
+The randomizer served up littleneck clams, leeks, oyster grill pan, they had to make a high-end lunch and they had 35 minutes. You have before you a vegetable linguine with clams. The clams were cooked in the oyster pan in a clam chowder broth made of leeks, potatoes, bacon and clams. The broth was then used to cook a vegetable linguine made of leeks and turnips.
+
+====== 0:20:22 ======
+-The equalizer? -The randomizer, pardon me. -The equalizer. Sorry. Come on.
+
+====== 0:23:54 ======
+[Hunter] How was that joyous randomizer competition right there? It's crazy how 30 minutes of work can be harder than a 16-hour day at the restaurant.
+
+====== 0:45:02 ======
+And have it come down to the randomizer, which is like my nightmare. -Right. -I'm moving up, moving on. -Congratulations. -Thank you.
+
+====== 1:12:24 ======
+So I'm really throwing a lot of faith into these fritters because putting up a dish that didn't meet all of the requirements of the randomizer would be heartbreaking.
+
+

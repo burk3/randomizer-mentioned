@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S03E04 - The End of Round 1 WEBRip-720p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:47:47 ======
+[Chris] Thirty minutes, it's just like restaurant service. The only difference is, is I got a picky diner called randomizer telling me what I can or cannot feed him for dinner. That's all the randomizer is. It's your worst guest.
+
+====== 0:32:25 ======
+Got to be honest, folks, I don't know, the randomizer has been too kind to these chefs, but they're making it work. Next up, Chef Chris Cosentino Chef Elizabeth Falkner will throw down in a battle for Bay Area bragging rights and in the main event, number one seed Chef Jet Tila will take on Chopped Next Generation winner Chef Carlos Anthony. Could we see a passing of the torch?
+
+====== 1:17:11 ======
+The randomizer was very flirtatious with disaster offering up bacon, navel oranges, a toaster, flaky and 30 minutes.
+
+====== 0:07:38 ======
+-Oh, God. -Ladies and gentlemen, here we go. Go for the spin. [crowd applause] [Petroni] Come on. Here we go, here we go.
+
+====== 0:17:17 ======
+[Christian ] I left off the parsley, one of the randomizer ingredients, I can't believe it. I can't believe it. [Guy] Chef Tobias, Chef Christian, we'll see you in a bit. Thank you. [Christian] The parsley's a randomized ingredient and as upset as I am that the parsley does not make it onto the plate, I am still feeling confident I cooked a better steak than Tobias, so I still got a crack at this thing.
+
+

@@ -1,0 +1,21 @@
+Extracting subtitles from videos/Tournament of Champions - S05E01 - Time for Battle WEBDL-1080p.mkv...
+Analyzing subtitles with claude-3-7-sonnet-20250219...
+
+Results:
+Humorous mentions of 'randomizer' found at:
+====== 0:38:57 ======
+But I will tell you what, the Randomizer loves them. We got very lucky with the Randomizer. First, we had salmon. Then we had sweet onion. We had blender. Then we had charred. And then the habanero. I don't usually cook with habaneros and I know that Jose Garces is... That's in his wheelhouse, so I was a little bit worried.
+
+====== 0:54:56 ======
+Preparing for the Randomizer is futile. There is no preparation. But basil's great. It goes with everything. I love the combination of leeks and basil, so I think I'm gonna stuff some leeks with a little bit of beef sausage and make some basil sauces.
+
+====== 1:01:00 ======
+As much as you want this to be silky smooth and nail the Randomizer, you still need to have some textural difference inside of that plate. Better get moving. Better get moving.
+
+====== 1:23:49 ======
+That Randomizer is like a brutalizer. Oh, are you kidding me? This is Tournament of Champions, bring it.
+
+====== 0:50:01 ======
+There's a lot of things to hit on the Randomizer, so... I just got outpointed. The first win at TOC for Marc Murphy. Third time's the charm.
+
+
